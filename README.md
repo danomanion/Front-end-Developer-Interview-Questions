@@ -65,6 +65,7 @@ This file contains a number of front-end interview questions that can be used wh
 #### CSS Questions:
 
 * What is the difference between classes and ID's in CSS?
+- ID's and Classes are similar in that they can both be used to specify how something looks or behaves, however ID's can only be used once per page and have a higher point value when it comes to specificity. 
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
 * Describe z-index and how stacking context is formed.
