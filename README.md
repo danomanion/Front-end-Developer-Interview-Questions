@@ -26,6 +26,7 @@ This file contains a number of front-end interview questions that can be used wh
 
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
+	- making things, to enable people to have abilities and access to things previously inaccessible. 
 * What is a recent technical challenge you experienced and how did you solve it?
 * What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
 * Talk about your preferred development environment.
@@ -49,7 +50,12 @@ This file contains a number of front-end interview questions that can be used wh
 #### HTML Questions:
 
 * What does a `doctype` do?
+	- `<!DOCTYPE>` is an instruction to the browser to let it know what version of HTML to use. 
+	- It is not actually an HTML Tag
 * What's the difference between standards mode and quirks mode?
+	- Back in the day, before IE5 and Netscape 4 days, HTML Standards weren't quite adopted so they created quirks mode to handle these inconsistencies.
+	- Quirks mode is a pretty dated practice and most modern web browsers use standards mode by default.
+	- However, if there is a malformed doctype or missing doctype the page will render in quirks mode. 
 * What's the difference between HTML and XHTML?
 * Are there any problems with serving pages as `application/xhtml+xml`?
 * How do you serve a page with content in multiple languages?
