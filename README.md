@@ -47,6 +47,10 @@ This file contains a number of front-end interview questions that can be used wh
 * Explain some of the pros and cons for CSS animations versus JavaScript animations.
 * What does CORS stand for and what issue does it address?
 
+#### Interview Process
+- Douglas Crokfords thought on code and interviews.
+ - "I don't belive stunts as part of the interview process, what I like to do is bring in code they think is good code and review it. This is how you can tell what type of code they consider something good."
+
 #### HTML Questions:
 
 * What does a `doctype` do?
